@@ -1,6 +1,6 @@
 # Gitrockets
 
-TODO: Write a gem description
+**NOTE: THIS AIN'T NO USEFUL ATM**
 
 ## Installation
 
